@@ -1,2 +1,2 @@
 # Acwing_progression
-This is a repository of my own clocking records from Acwing's [Advanced Guide to Algorithmic Competitions] Clocking activities.
+个人练习《算法竞赛进阶指南》的代码记录
